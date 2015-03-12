@@ -14,12 +14,12 @@ uiConstruction.js is a plugin for jQuery that adds a beautiful and parameterized
 ```
 
 **JavaScript code:**
-Standar usage:
 ```javascript
+//Standar usage:
 $('#input-file').uploadBase64();
 ```
-Advance usage:
 ```javascript
+//Advance usage:
 $('#input-file').uploadBase64({
   limit:5, // Limit to upload image (Default unlimit)
   maxsize:20024, // Max size in KB (Default unlimit)
