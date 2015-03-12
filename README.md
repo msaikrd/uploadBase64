@@ -5,6 +5,8 @@ uploadBase64 First Release
 
 uiConstruction.js is a plugin for jQuery that adds a beautiful and parameterized a form Under Construction. It works in all modern browsers including touch devices.
 
+#### Example
+![alt tag](https://github.com/matirank/uploadBase64/blob/master/example.jpg)
 
 #### Usage
 
